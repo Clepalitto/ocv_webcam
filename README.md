@@ -6,7 +6,7 @@ It is based on a simple Python file, which contains a **`def` webcam()**.
 
 ## How to use *ocv_webcam* ?
 
-First, you need to have [Python](https://www.python.org/) installed a its package `opencv-python` by running the command `pip install opencv-python`.
+First, you need to have [Python](https://www.python.org/) installed and its package `opencv-python` by running the command `pip install opencv-python`.
 
 Then, at the beginning of the file which will use **ocv_webcam**, write 
 
